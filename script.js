@@ -283,7 +283,7 @@ function scrollaf() {
 
 
 
-var countDownDate = new Date("jan 30, 2023 00:00:00").getTime();
+var countDownDate = new Date("Feb 30, 2023 00:00:00").getTime();
 var x = setInterval(function(){
    var now = new Date().getTime();
    var distance = countDownDate - now;
